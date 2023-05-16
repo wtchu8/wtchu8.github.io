@@ -55,7 +55,7 @@ social-network-links:
   linkedin: wtchu
   google-scholar: citations?user=xHsbPqkAAAAJ&hl=en
   ORCID: 0000-0001-7818-9139
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
+#   rss: true  # remove this line if you don't want to show an RSS link at the bottom
 #  medium: yourname
 #  reddit: yourname
 #  xing: yourname
