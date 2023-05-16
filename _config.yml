@@ -50,12 +50,12 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "winston.chu@nih.gov"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
   github: wtchu8
   twitter: wtchu8
   linkedin: wtchu
   google-scholar: citations?user=xHsbPqkAAAAJ&hl=en
   ORCID: 0000-0001-7818-9139
+  rss: true  # remove this line if you don't want to show an RSS link at the bottom
 #  medium: yourname
 #  reddit: yourname
 #  xing: yourname
@@ -76,7 +76,7 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: This website is a virtual proof that I'm awesome
+rss-description: "Winston Chu's Personal Website"
 
 ###########################
 # --- General options --- #
@@ -91,7 +91,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "wtchu8.github.io"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
