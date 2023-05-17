@@ -4,7 +4,7 @@ title: About me
 subtitle: 
 ---
 
-I am a Data Scientist at the National Institute of Allergy and Infectious Diseases. My research focus is at the intersection of medical imaging, artificial intelligence, and infectious diseases.
+I am a Data Scientist at the National Institute of Allergy and Infectious Diseases (NIAID). My research focus is at the intersection of medical imaging, artificial intelligence, and infectious diseases. Check out the [team's webpage](https://www.niaid.nih.gov/research/artificial-intelligence-integrated-research-facility-fort-detrick) for more details.
 
 - 🔭 I’m currently working on a MONAI/PyTorch workflow for deep learning organ/tissue segmentation of chest CT images
 - 🌱 I’m currently learning how to tune self-supervised tasks to improve deep learning organ/tissue segmentation using unlabeled CT scans
