@@ -24,7 +24,8 @@ navbar-links:
 #   Resources:
 #     - Beautiful Jekyll: "https://beautifuljekyll.com"
 #     - Learn markdown: "https://www.markdowntutorial.com/"
-  Publications: "https://scholar.google.com/citations?user=xHsbPqkAAAAJ&hl=en"
+  Publications: "publications"
+  #Publications: "https://scholar.google.com/citations?user=xHsbPqkAAAAJ&hl=en"
 
 ################
 # --- Logo --- #
