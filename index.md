@@ -1,7 +1,7 @@
 ---
-layout: minimal
+layout: page
 title: Winston T. Chu, PhD
-subtitle: Data Scientist, National Institutes of Health
+subtitle: "Data Scientist\nNational Institutes of Health"
 ---
 
 <div class="centered-container">
