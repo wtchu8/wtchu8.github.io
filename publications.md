@@ -1,10 +1,8 @@
 ---
 layout: page
 title: Publications
-subtitle: "The proof is in the pudding"
 last-updated: 2025-05-12
 ---
-You'll find the most up-to-date information on my [Google Scholar](https://scholar.google.com/citations?user=xHsbPqkAAAAJ&hl=en) page
 
 - Mani, V., <span style="color: #6cc644;"Chu W.T.</span>, Yang, H.-J., Morris, C. P., Laux, J., Byrum, R., Cooper, K., Liu, D. X., Wang, H., Johnson, C., Hadley, K., Bernbaum, J. G., Hart, R., Anthony, S. M., Marketon, A. E., Bernbaum-Cutler, R., Pahar, B., Worwa, G., Kuhn, J. H., … Gale, E. (2025). Reactive oxygen species-related oxidative changes are associated with splenic lymphocyte depletion in Ebola virus infection. *Npj Imaging*, 3(1), 16. <https://doi.org/10.1038/s44303-025-00079-x>
 - Rustad, M., **Chu, W. T.**, Reza, S., Sayre, P. J., Crozier, I., Worwa, G., Kuhn, J. H., Calcagno, C., Castro, M. A., & Solomon, J. (2024). Active learning applied to selection of diverse training data using radiomic features for optimal lung lesion segmentation in nonhuman primates. In B. S. Gimi & A. Krol (Eds.), *Medical Imaging 2024: Clinical and Biomedical Imaging* (p. 74). SPIE. <https://doi.org/10.1117/12.3006808>
