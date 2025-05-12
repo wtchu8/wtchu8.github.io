@@ -2,6 +2,7 @@
 layout: page
 title: Publications
 subtitle: "The proof is in the pudding"
+last-updated: 2025-05-12
 ---
 You'll find the most up-to-date information on my [Google Scholar](https://scholar.google.com/citations?user=xHsbPqkAAAAJ&hl=en) page
 
