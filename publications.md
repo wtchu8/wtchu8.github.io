@@ -5,8 +5,6 @@ subtitle: "The proof is in the pudding"
 ---
 You'll find the most up-to-date information on my [Google Scholar](https://scholar.google.com/citations?user=xHsbPqkAAAAJ&hl=en) page
 
-<div class="bibliography">
-
 - Mani, V., Chu, W. T., Yang, H.-J., Morris, C. P., Laux, J., Byrum, R., Cooper, K., Liu, D. X., Wang, H., Johnson, C., Hadley, K., Bernbaum, J. G., Hart, R., Anthony, S. M., Marketon, A. E., Bernbaum-Cutler, R., Pahar, B., Worwa, G., Kuhn, J. H., … Gale, E. (2025). Reactive oxygen species-related oxidative changes are associated with splenic lymphocyte depletion in Ebola virus infection. Npj Imaging, 3(1), 16. https://doi.org/10.1038/s44303-025-00079-x
 - Rustad, M., Chu, W. T., Reza, S., Sayre, P. J., Crozier, I., Worwa, G., Kuhn, J. H., Calcagno, C., Castro, M. A., & Solomon, J. (2024). Active learning applied to selection of diverse training data using radiomic features for optimal lung lesion segmentation in nonhuman primates. In B. S. Gimi & A. Krol (Eds.), Medical Imaging 2024: Clinical and Biomedical Imaging (p. 74). SPIE. https://doi.org/10.1117/12.3006808
 - Shinguyen, L., Chu, W., Rustad, M., Malayeri, A., Homayounieh, M., Singh, S., Calcagna, C., Sayre, P., Crozier, I., Worwa, G., Kuhn, J. H., Wood, B., Castro, M., & Solomon, J. (2024). Lung lesion segmentation of CT scans after SARS-CoV-2 infection: Combining nonhuman primate with human data for inter-species transfer learning. In B. S. Gimi & A. Krol (Eds.), Medical Imaging 2024: Clinical and Biomedical Imaging (p. 34). SPIE. https://doi.org/10.1117/12.3006206
@@ -30,6 +28,3 @@ You'll find the most up-to-date information on my [Google Scholar](https://schol
 - Mitchell, T., Archer, D. B., Chu, W. T., Coombes, S. A., Lai, S., Wilkes, B. J., McFarland, N. R., Okun, M. S., Black, M. L., Herschel, E., Simuni, T., Comella, C., Xie, T., Li, H., Parrish, T. B., Kurani, A. S., Corcos, D. M., & Vaillancourt, D. E. (2019). Neurite orientation dispersion and density imaging (NODDI) and free-water imaging in Parkinsonism. Human Brain Mapping, 40(17), 5094–5107. https://doi.org/10.1002/hbm.24760
 - Archer, D. B., Coombes, S. A., Chu, W. T., Chung, J. W., Burciu, R. G., Okun, M. S., Wagle Shukla, A., & Vaillancourt, D. E. (2018). A widespread visually-sensitive functional network relates to symptoms in essential tremor. Brain, 141(2), 472–485. https://doi.org/10.1093/brain/awx338
 - Archer, D. B., Coombes, S. A., Chu, W. T., Woo Chung, J., Burciu, R. G., Okun, M. S., Wagle Shukla, A., & Vaillancourt, D. E. (2018). Reply: Visually-sensitive networks in essential tremor: evidence from structural and functional imaging. Brain, 141(6), e48. https://doi.org/10.1093/brain/awy096
-
-
-</div>
