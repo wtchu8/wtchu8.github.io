@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Winston T. Chu, PhD
+title: Winston T. Chu
 subtitle: "ML Engineer | Computer Vision & MLOps | Ph.D. Biomedical Engineering"
 ---
 
