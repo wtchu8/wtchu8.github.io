@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Winston T. Chu, PhD
-subtitle: "Biomedical Imaging Data Scientist"
+subtitle: "ML Engineer | Computer Vision & MLOps | Ph.D. Biomedical Engineering"
 ---
 
 <div class="centered-container">
